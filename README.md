@@ -107,3 +107,5 @@ The application uses MongoDB for data storage. Below is the Entity Relationship 
 
 - Your Name - Moulik Arora, Btech (IT)
 - Project Link: [https://github.com/your-github-username/yoga-enrollment](https://github.com/Moulik07/Yoga-Enrollment)https://github.com/Moulik07/Yoga-Enrollment
+
+- Hosted at: https://clever-bunny-6ce071.netlify.app/ 
