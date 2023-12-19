@@ -101,23 +101,7 @@ The application uses MongoDB for data storage. Below is the Entity Relationship 
 - **Classes**: Contains details about yoga classes.
 - **Enrollments**: Tracks user enrollments in classes.
 
-## Contributing
-
-Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
 ## Contact
 
-- Your Name - your.email@example.com
-- Project Link: https://github.com/your-github-username/yoga-enrollment
-
----
-
-### Notes:
-
-- Replace placeholders (like `your-github-username`, `your.email@example.com`, and paths to images or links) with your actual data.
-- Make sure to include the actual ER diagram image in your repository and link it in the README.
-- Adjust any section to better fit your specific project's details and requirements.
+- Your Name - Moulik Arora, Btech (IT)
+- Project Link: [https://github.com/your-github-username/yoga-enrollment](https://github.com/Moulik07/Yoga-Enrollment)https://github.com/Moulik07/Yoga-Enrollment
