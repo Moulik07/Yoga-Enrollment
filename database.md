@@ -53,9 +53,4 @@ Enrollments Table
 - The **Enrollments** table has foreign keys linking to both the **Users** and **Classes** tables.
 
 
-### Final Steps
-
-- After creating the ER diagram, you can export it as an image or PDF to include in your documentation.
-- Make sure to explain the relationships and structure in your README or documentation for the project.
-
-By following these steps, you will have a well-defined database schema and an accompanying ER diagram, showcasing your database designing skills as required for your assignment.
+Thankyou!
