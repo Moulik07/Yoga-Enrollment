@@ -84,6 +84,7 @@ Yoga Enrollment is a full-stack web application designed to facilitate the enrol
 
    - The application should now be running on `http://localhost:3000`.
      (frontend.png)
+     ![Frontend](frontend.png)
 
 ## Deployment
 
