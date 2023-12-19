@@ -93,7 +93,7 @@ Yoga Enrollment is a full-stack web application designed to facilitate the enrol
 
 The application uses MongoDB for data storage. Below is the Entity Relationship (ER) diagram illustrating the database schema:
 
-![ER Diagram](ER.png)
+![ER Diagram](ER1.png)
 
 ### Tables / Collections
 
